@@ -1,0 +1,16 @@
+F76125,Foot,Left,metatarsal,multifragment,oblique,Invalid input,Passenger:,Invalid input
+F76126,Hand,Both,phalange,simple,transverse,Invalid input,Pedestrian:,Invalid input
+F76126,C-Spine,Both,c7,simple,oblique,Invalid input,Passenger:,Invalid input
+F76127,Pelvis,Both,ramus,simple,oblique,Invalid input,Passenger:,Invalid input
+F76128,Foot Phalanx,Left,proximal,wedged,transverse,Invalid input,operator,Invalid input
+F76129,Foot,Both,diaphyseal,multifragment,intra-articular,Invalid input,Passenger:,Invalid input
+F76130,Foot,Both,metatarsal,multifragment,oblique,Invalid input,Passenger:,Invalid input
+F76131,Foot,Right,toes,multifragment,transverse,Invalid input,Passenger:,Invalid input
+F76132,C-Spine,Both,c-4,simple,oblique,Invalid input,operator,Invalid input
+F76133,Talus,Left,distal,wedged,oblique,Invalid input,Pedestrian:,Invalid input
+F76134,Hand,Left,phalanx,simple,transverse,Invalid input,operator,Invalid input
+F76135,C-Spine,Both,c-5,simple,transverse,Invalid input,Passenger:,Invalid input
+F76136,Foot,Left,phalanx,simple,transverse,Invalid input,operator,Invalid input
+F73218,Hand,Left,metacarpal,wedged,transverse,Invalid input,operator,Invalid input
+F75018,C-Spine,Right,c3-c4,wedged,transverse,Invalid input,Passenger:,Invalid input
+F75032,Hand Phalanx,Left,proximal,wedged,transverse,Invalid input,operator,Invalid input
